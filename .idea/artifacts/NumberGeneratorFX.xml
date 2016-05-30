@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="NumberGeneratorFX">
+    <output-path>$PROJECT_DIR$/out/artifacts/NumberGeneratorFX</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="main.Main" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="nativeBundle" value="dmg" />
+        <option name="paramFile" value="" />
+        <option name="title" value="Number Generator 1.0" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="NumberGenerator.jar">
+        <element id="module-output" name="NumberGenerator" />
+      </element>
+    </root>
+  </artifact>
+</component>

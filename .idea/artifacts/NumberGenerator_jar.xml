@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NumberGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NumberGenerator_jar</output-path>
+    <root id="archive" name="NumberGenerator.jar">
+      <element id="module-output" name="NumberGenerator" />
+    </root>
+  </artifact>
+</component>
